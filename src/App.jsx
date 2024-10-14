@@ -2,7 +2,7 @@ import Download from "./sections/Download";
 import Faq from "./sections/Faq";
 import Features from "./sections/Features";
 import Header from "./sections/Header";
-import Hero from "./sections/hero";
+import Hero from "./sections/Hero";
 import Pricing from "./sections/Pricing";
 import Testimonials from "./sections/Testimonials";
 import Footer from "./sections/Footer";
